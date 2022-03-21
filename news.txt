@@ -1,11 +1,15 @@
-凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-BBC新闻,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-CNN欧洲新闻,https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-CBSN新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+美国CBSN新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#https://www.cbsnews.com/common/video/dai_prod.m3u8
+美国ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 DW英语新闻,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 France 24英语新闻,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8#http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
 半岛英语新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-新加坡亚洲英语新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲英语新闻CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8#http://www.news24.jp/livestream/index.m3u8
+韩国Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CNC英语 (720p),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNC中文 (720p),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
