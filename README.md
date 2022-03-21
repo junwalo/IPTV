@@ -5,6 +5,8 @@ iptv直播源分享
 
 新闻台直播源由自己整理
 
+广播源来自于云听客户端和广电盒子抓包
+
 央视省级卫视直播源来自
 https://pastebin.com/raw/ybSuEMjs 
 by hwh0488
